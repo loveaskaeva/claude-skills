@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "loveaskaeva-skills",
+  "description": "Claude Code skills by loveaskaeva: task execution, repo polishing, homework and premium dark UI.",
+  "owner": {
+    "name": "loveaskaeva"
+  },
+  "plugins": [
+    {
+      "name": "claude-skills",
+      "description": "Task executor, GitHub repo polisher, student homework builder and premium dark UI style for Claude Code.",
+      "version": "1.0.0",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

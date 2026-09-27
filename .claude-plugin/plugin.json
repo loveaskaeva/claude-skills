@@ -1,0 +1,11 @@
+{
+  "name": "claude-skills",
+  "description": "Task executor, GitHub repo polisher, student homework builder and premium dark UI style — Codex skills rebuilt for Claude Code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "loveaskaeva"
+  },
+  "repository": "https://github.com/loveaskaeva/claude-skills",
+  "keywords": ["workflow", "github", "homework", "ui", "design"],
+  "skills": "./skills/"
+}
